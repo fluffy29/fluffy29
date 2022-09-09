@@ -1,6 +1,6 @@
 - hey guys ! my name is hassan majzoub
 - I’m interested in computer science and writing
-- I’m currently learning c++ and in grade 12 currently
+- I’m learning c++ and in grade 12 currently
 
 I always thought my dream was to be a writer for a publishing company, sipping my coffee and reading the beginning lines of the next best-selling fiction books.
 It seemed like a reasonable dream given by my good grades in English and my creativity. 
@@ -19,7 +19,4 @@ My specialties include communication, problem-solving, time managing, motivation
 So far I have learned python throughout the summer and I'm still building my knowledge. 
 I'm still enthusiastically grabbing into other programming languages, frameworks, or principles I can combine in the coding web in my head.
 
-<!---
-fluffy29/fluffy29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for reading my readme :)
