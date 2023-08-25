@@ -1,4 +1,4 @@
-- hey guys ! my name is hassan majzoub
+- hey guys ! My name is Hassan Majzoub
 - I’m interested in computer science and writing
 - I’m in university and learning to be a full stack dev
 
