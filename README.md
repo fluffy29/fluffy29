@@ -1,6 +1,6 @@
 - hey guys ! my name is hassan majzoub
 - I’m interested in computer science and writing
-- I’m learning c++ and in grade 12 currently
+- I’m in university and learning to be a full stack dev
 
 I always thought my dream was to be a writer for a publishing company, sipping my coffee and reading the beginning lines of the next best-selling fiction books.
 It seemed like a reasonable dream given by my good grades in English and my creativity. 
