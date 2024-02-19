@@ -19,7 +19,7 @@
         <h3>Connect with me:</h3>
         <p>
           <a href="https://codepen.io/@fluffy294" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@fluffy294" height="30" width="40" /></a>
-          <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-majzoub-130b09293/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-majzoub-130b09293/" height="30" width="40" /></a>
+          <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-majzoub-130b09293/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-majzoub-130b09293" height="30" width="40" /></a>
           <a href="https://instagram.com/hassanmajzoub1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassanmajzoub1" height="30" width="40" /></a>
           <a href="https://www.codechef.com/users/hmajzoub12" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hmajzoub12" height="30" width="40" /></a>
         </p>
