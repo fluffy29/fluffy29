@@ -9,7 +9,7 @@
           <li>🔭 I’m currently studying in <strong>Epita School of engineering</strong></li>
           <li>🌱 I’m currently learning <strong>Bachelor of Computer Science</strong></li>
           <li>👋 I'm into playing <strong>chess and sports</strong></li>
-          <li>🤝 My linkedin <a href="https://www.linkedin.com/in/hassan-majzoub-130b09293/">Linkedin</a></li>
+          <li>🤝 My linkedin <a href="[https://www.linkedin.com/in/hassan-majzoub-130b09293/](https://www.linkedin.com/in/hassan-majzoub-130b09293/)">Linkedin</a></li>
           <li>👨‍💻 Achievements (Meta externship (2022))</li>
           <li>💬 Ask me about <strong>Html, Css, Python</strong></li>
           <li>📫 How to reach me <strong>hmajzoub12@gmail.com</strong></li>
