@@ -32,10 +32,6 @@
         </p>
       </div>
       <div class="profile-image">
-        <img src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" alt="GIF">
-      ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@hmajzoub1225278/30-nites-of-code)  
-  ![@hmajzoub1225278 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=hmajzoub1225278)
       </div>
     </div>
   </div>
