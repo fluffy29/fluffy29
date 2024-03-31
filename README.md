@@ -22,7 +22,7 @@
           <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-majzoub-130b09293/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-majzoub-130b09293" height="30" width="40" /></a>
           <a href="https://instagram.com/hassanmajzoub1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassanmajzoub1" height="30" width="40" /></a>
           <a href="https://www.codechef.com/users/hmajzoub12" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hmajzoub12" height="30" width="40" /></a>
-          <a href="https://whttps://www.codedex.io/@hmajzoub1225278" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcodedex-io&psig=AOvVaw135qEAXtSE4MXsIuGw0bhU&ust=1711991104090000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKixvP79noUDFQAAAAAdAAAAABAE" alt="hmajzoub12" height="30" width="40" /></a>
+          <a href="https://whttps://www.codedex.io/@hmajzoub1225278" target="_blank"><img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4.svg" alt="hmajzoub12" height="30" width="40" /></a>
         </p>
         <h3>Languages and Tools:</h3>
         <p>
