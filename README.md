@@ -41,3 +41,7 @@
   </div>
 </body>
 </html>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@hmajzoub1225278/30-nites-of-code)  
+  ![@hmajzoub1225278 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=hmajzoub1225278)
