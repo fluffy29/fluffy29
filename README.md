@@ -38,6 +38,4 @@
 </body>
 </html>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@hassanmaj/30-nites-of-code)  
-  ![@hassanmaj #30NitesOfCode](https://www.codedex.io/api/petStatus?user=hassanmaj)
+
