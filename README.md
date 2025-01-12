@@ -70,8 +70,12 @@
 ###
 
 <div align="center">
+  <a href="https://open.spotify.com/user/fluffy3144">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fluffy3144&count=1&unique=true" alt="Spotify recently played for fluffy3144" />
+  </a>
+  <br>
   <a href="https://open.spotify.com/user/313hr5y5wn2egjye3cfgxe3dnmym">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313hr5y5wn2egjye3cfgxe3dnmym" alt="Spotify recently played for 313hr5y5wn2egjye3cfgxe3dnmym" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313hr5y5wn2egjye3cfgxe3dnmym&count=5" alt="Spotify recently played for 313hr5y5wn2egjye3cfgxe3dnmym" />
   </a>
 </div>
 
