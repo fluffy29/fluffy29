@@ -1,41 +1,74 @@
-</head>
-<body>
-  <div class="container">
-    <div class="profile">
-      <div class="profile-info">
-        <h1 align="center">Hi 👋, I'm Hassan Majzoub</h1>
-        <h3 align="center">A passionate frontend developer from Lebanon</h3>
-        <ul>
-          <li>🔭 I’m currently studying in <strong>Epita School of engineering</strong></li>
-          <li>🌱 I’m currently learning <strong>Bachelor of Computer Science</strong></li>
-          <li>👋 I'm into playing <strong>chess and sports</strong></li>
-          <li>🤝 My linkedin <a href="https://www.linkedin.com/in/hassan-majzoub-130b09293">Linkedin</a></li>
-          <li>👨‍💻 Achievements (Meta externship (2022))</li>
-          <li>💬 Ask me about <strong>Html, Css, Python</strong></li>
-          <li>📫 How to reach me <strong>hmajzoub12@gmail.com</strong></li>
-          <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/14z-vTxbAA1ggkpbKZH_mKO2Kwzpmal4h/view?usp=sharing">here</a></li>
-          <li>⚡ Fun fact <strong>I could be rather silly sometimes</strong></li>
-        </ul>
-        <h3>Connect with me:</h3>
-        <p>
-          <a href="https://codepen.io/@fluffy294" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@fluffy294" height="30" width="40" /></a>
-          <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-majzoub-130b09293/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-majzoub-130b09293" height="30" width="40" /></a>
-          <a href="https://instagram.com/hassanmajzoub1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassanmajzoub1" height="30" width="40" /></a>
-          <a href="https://www.codechef.com/users/hmajzoub12" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hmajzoub12" height="30" width="40" /></a>
-          <a href="https://www.codedex.io/@hmajzoub1225278" target="_blank"><img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4.svg" alt="hmajzoub12" height="30" width="40" /></a>
-        </p>
-        <h3>Languages and Tools:</h3>
-        <p>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-          <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-        </p>
-      </div>
-      <div class="profile-image">
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+<h2 align="left">Hey! My name is Hassan Majzoub :)</h2>
 
+###
 
+<div align="center">
+  <img height="300" src="https://gifdb.com/images/high/purple-cat-typing-at-work-n2ihfrdznlm2m5fc.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="rust logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fluffy29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fluffy29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h1 align="left">Join me on my journey: 💻</h1>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/hassanmajzoub1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.discord.com/fluffy3144/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="hmajzoub12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hassan-majzoub/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://tryhackme.com/r/p/Hassanmajzoub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/fluffy29/fluffy29/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/fluffy3144">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fluffy3144&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
