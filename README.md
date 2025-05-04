@@ -73,7 +73,7 @@ Hey! I'm Hassan a curious developer passionate about building cool stuff, from f
 
 > Think you can beat the AI? Good luck... you'll need it. 😈
 
-[![Impossible Pong Demo](gif.gif)](https://impossible-pong.vercel.app)
+[![Impossible Pong Demo](assets/gif.gif)](https://impossible-pong.vercel.app)
 
 ---
 
