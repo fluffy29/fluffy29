@@ -75,6 +75,8 @@ Hey! I'm Hassan a curious developer passionate about building cool stuff, from f
 
 [![Impossible Pong Demo](assets/gif.gif)](https://impossible-pong.vercel.app)
 
+Click on the Gif to play! It's free!
+
 ---
 
 ## 📈 GitHub Stats
