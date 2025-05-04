@@ -69,6 +69,14 @@ Hey! I'm Hassan a curious developer passionate about building cool stuff, from f
 
 ---
 
+## 🎮 Play Impossible Pong
+
+> Think you can beat the AI? Good luck... you'll need it. 😈
+
+[![Impossible Pong Demo](gif.gif)](https://impossible-pong.vercel.app)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=fluffy29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
