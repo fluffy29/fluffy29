@@ -67,17 +67,6 @@ Hey! I'm Hassan a curious developer passionate about building cool stuff, from f
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## 🎮 Play Impossible Pong
-
-> Think you can beat the AI? Good luck... you'll need it. 😈
-
-[![Impossible Pong Demo](assets/gif.gif)](https://impossible-pong.vercel.app)
-
-Click on the Gif to play! It's free!
-
----
 
 ## 📈 GitHub Stats
 
