@@ -68,15 +68,6 @@ Hey! I'm Hassan a curious developer passionate about building cool stuff, from f
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fluffy29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=fluffy29&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy29&theme=dark&hide_border=false&layout=compact)
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -108,15 +99,4 @@ Hey! I'm Hassan a curious developer passionate about building cool stuff, from f
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hassan-majzoub/)
 [![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&style=for-the-badge)](https://tryhackme.com/r/p/Hassanmajzoub)
 
----
-
-## 🎵 Recently Played on Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/313hr5y5wn2egjye3cfgxe3dnmym">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313hr5y5wn2egjye3cfgxe3dnmym" alt="Spotify recently played" />
-  </a>
-</div>
-
----
 
