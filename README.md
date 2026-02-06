@@ -68,13 +68,6 @@ Hey! I'm Hassan a curious developer passionate about building cool stuff, from f
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=fluffy29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
